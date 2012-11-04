@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = Goqr::VERSION
   s.authors     = ['Patricio Mac Adden']
   s.email       = ['patriciomacadden@gmail.com']
-  s.homepage    = ''
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = 'https://github.com/patriciomacadden/simple_gravatar'
+  s.summary     = %q{QR codes for ruby/rails using goqr.me API}
+  s.description = %q{QR codes for ruby/rails using goqr.me API}
 
   s.rubyforge_project = 'goqr'
 
@@ -22,5 +22,5 @@ Gem::Specification.new do |s|
   # s.add_development_dependency "rspec"
   # s.add_runtime_dependency "rest-client"
   s.add_dependency 'railties'
-  s.add_dependency 'active_support'
+  s.add_dependency 'activesupport'
 end
