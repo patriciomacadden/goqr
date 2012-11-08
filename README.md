@@ -3,6 +3,7 @@
 QR codes for ruby/rails using goqr.me API
 
 [![Build Status](https://travis-ci.org/patriciomacadden/goqr.png)](https://travis-ci.org/patriciomacadden/goqr)
+
 ![patriciomacadden/goqr](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgithub.com%2Fpatriciomacadden%2Fgoqr&size=256x256)
 
 ## Installation
