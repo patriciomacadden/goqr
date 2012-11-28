@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Goqr::VERSION
   s.authors     = ['Patricio Mac Adden']
   s.email       = ['patriciomacadden@gmail.com']
-  s.homepage    = 'https://github.com/patriciomacadden/simple_gravatar'
+  s.homepage    = 'https://github.com/patriciomacadden/goqr'
   s.summary     = %q{QR codes for ruby/rails using goqr.me API}
   s.description = %q{QR codes for ruby/rails using goqr.me API}
 
